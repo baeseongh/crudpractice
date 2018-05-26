@@ -13,7 +13,7 @@ Route를 더욱 RESTful하게 만들어 봅시다!
 
 ## n:1 관계
 
-Comment 모델을 생성하여 Notedhk 1:n 관계를 연결해 봅시다!
+Comment 모델을 생성하여 Noted와 1:n 관계를 연결해 봅시다!
 
 ## Comment
 
