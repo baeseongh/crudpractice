@@ -1,26 +1,20 @@
-# Note CRUD
+# Ruby on Rails with CRUD
 
-title: string, content: text 로 구성된 CRUD 형태의 C9 form 입니다.!
-1. git clone
-2. Restfull
-3. n:1 관계
-4. Comment
-5. Github push
+Ruby on Rails를 사용하여 웹사이트의 Create, Read, Update, Delete 기능을 구현합니다.
+- 클론하여 사용합니다.
 
-## RESTful
+## 1. RESTful
 
-Route를 더욱 RESTful하게 만들어 봅시다!
+Route를 더욱 Restful하게 만들어봅니다.
 
-## n:1 관계
+## 2. n:1 관계
 
-Comment 모델을 생성하여 Noted와 1:n 관계를 연결해 봅시다!
+Comment 모델을 생성하여 Noted와 1:n 관계를 연결해 봅니다.
 
-## Comment
+## 3. Comment
 
-Comments 컨트롤러를 생성하여 Note show에 댓글 기능을 구현합시다!
+Comments 컨트롤러를 생성하여 Note show에 댓글 기능을 구현합니다.
 
-## Github push
+## 4. Git push
 
-Github 저장소를 이용하여 완성된 워크스페이스를 올려 봅시다!
-
-
+Github 저장소를 이용하여 완성된 프로젝트를 push합니다.
